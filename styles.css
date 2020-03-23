@@ -32,10 +32,14 @@ p {
 
 .one:hover
 {
-        box-shadow:
-                1px 1px #53a7ea,
-                2px 2px #53a7ea,
-                3px 3px #53a7ea;
+       box-shadow:
+       1px 1px #53a7ea,
+       2px 2px #53a7ea,
+       3px 3px #53a7ea;
         -webkit-transform: translateX(-3px);
         transform: translateX(-3px);
+        top:330px;
+        transform: rotate(-20deg);
+	    transform: skewX(9deg);
+	    transform: skewY(-20deg);
 }
