@@ -16,12 +16,17 @@ p {
 
 .catogory{
 	font-family: "Chalkboard SE", Regular;
-	font-size: 25px;
+	font-size: 18px;
 	color: #0039a6;
 }
 
 .one{
-	left: 401.715px;
-	top:174.412px;
+	position: absolute;
+	left: 340.715px;
+	top:310.412px;
+	transform: rotate(-20deg);
+	transform: skewX(9deg);
+	transform: skewY(-20deg);
+
 
 }
