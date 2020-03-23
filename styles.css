@@ -1,5 +1,5 @@
 .index {
-  background-image: url("/img/background.png");
+  background-image: url("./img/background.png");
 }
 h1 {
   color: blue;
