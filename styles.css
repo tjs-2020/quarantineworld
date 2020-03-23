@@ -13,3 +13,9 @@ h1 {
 p {
   color: red;
 }
+
+.catogory{
+	font-family: "Chalkboard SE", Regular;
+	font-size: 25px;
+	color: #0039a6;
+}
