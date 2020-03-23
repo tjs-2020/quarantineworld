@@ -2,8 +2,9 @@ body {
   background-image: url("./img/background-02.png");
   background-size: 92%;
   background-repeat: no-repeat;
-  background-color: #F7F9F9;
-  background-position: center;
+  background-color: #f5f5f5;
+  background-attachment: fixed;
+  background-position: right center;
 }
 
 h1 {
