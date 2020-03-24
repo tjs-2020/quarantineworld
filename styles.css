@@ -50,7 +50,7 @@ h1 {
 
 }
 
-.two:hover
+.two, .three, .four:hover
 {
        box-shadow:
        1px 1px #53a7ea,
@@ -65,14 +65,12 @@ h1 {
  	top:601px;
  }
 
- .three:hover{
- 	box-shadow:
-       1px 1px #53a7ea,
-       2px 2px #53a7ea,
-       3px 3px #53a7ea;
-       cursor: grab;
- }
 
 
-
+.four{
+	position: absolute;
+	top:350px;
+	left: 850px;
+	transform: rotate(4deg);
+}
 
