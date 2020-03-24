@@ -60,6 +60,20 @@ h1 {
        cursor: grab;
  }
 
+ .three{
+ 	position: absolute;
+ 	left:740px;
+ 	top:601px;
+ }
+
+ .three:hover{
+ 	box-shadow:
+       1px 1px #53a7ea,
+       2px 2px #53a7ea,
+       3px 3px #53a7ea;
+       cursor: grab;
+ }
+
 
 
 
