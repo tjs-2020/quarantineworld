@@ -66,14 +66,6 @@ h1 {
 	transform: rotate(4deg);
 }
 
-.two,.three,.four:hover
-{
-       box-shadow:
-       1px 1px #53a7ea,
-       2px 2px #53a7ea,
-       3px 3px #53a7ea;
-       cursor: grab;
- }
 
  .five{
  	position: absolute;
@@ -95,3 +87,12 @@ h1 {
 	left:730px;
 	transform: rotate(4deg);
 }
+
+.two.three.four.fivr:hover
+{
+       box-shadow:
+       1px 1px #53a7ea,
+       2px 2px #53a7ea,
+       3px 3px #53a7ea;
+       cursor: grab;
+ }
