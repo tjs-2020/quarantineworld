@@ -41,22 +41,12 @@ h1 {
         transform: rotate(-20deg);
 	    transform: skewX(9deg);
 	    transform: skewY(-20deg);
+
+	    cursor: grab;
 }
 
 
-.btn {
-  border: none;
-  background-color: white;
-  padding: 14px 28px;
-  font-size: 19px;
-  cursor: grab;
-  display: inline-block;
-}
 
-.btn:hover {background: #0039a6;}
-
-
-.info {color: white;}
 
 
 
