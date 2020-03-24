@@ -88,11 +88,17 @@ h1 {
 	transform: rotate(4deg);
 }
 
-.two.three.four.fivr:hover
+.two.three.four.five:hover
 {
        box-shadow:
        1px 1px #53a7ea,
        2px 2px #53a7ea,
        3px 3px #53a7ea;
        cursor: grab;
+ }
+
+ .eight{
+ 	font-family: "Chalkboard SE", Regular;
+	font-size: 12px;
+	color: #0039a6;
  }
