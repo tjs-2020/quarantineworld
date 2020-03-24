@@ -139,6 +139,8 @@ h1 {
 
  .eight{
  	font-family: "Chalkboard SE", Regular;
-	font-size: 12px;
+	font-size: 15px;
 	color: #0039a6;
+	position: absolute;
+	left: 5px;
  }
