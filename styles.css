@@ -35,17 +35,30 @@ h1 {
        1px 1px #53a7ea,
        2px 2px #53a7ea,
        3px 3px #53a7ea;
-        -webkit-transform: translateX(-3px);
+       cursor: grab;
         transform: translateX(-3px);
         top:320px;
         transform: rotate(-20deg);
 	    transform: skewX(9deg);
 	    transform: skewY(-20deg);
 
-	    cursor: grab;
 }
 
+.two{
+	position: absolute;
+	left:265px;
+	top:700px;
 
+}
+
+.two:hover
+{
+       box-shadow:
+       1px 1px #53a7ea,
+       2px 2px #53a7ea,
+       3px 3px #53a7ea;
+       cursor: grab;
+ }
 
 
 
