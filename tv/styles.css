@@ -40,9 +40,10 @@ color:#0039a6;
 }
 
 body{
-    background-image: url('./img/b.png');
-    background-repeat: no-repeat;
-    background-size: 100%;
+ background-image: url("./img/background-02.png");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: #f5f5f5;
 	padding-top: 10px;
 	padding-left: 300px;
 	padding-right: 300px;
@@ -52,7 +53,8 @@ body{
 	color:#0039a6;
 }
  .sec{
-  background-color: #f7f7f7;
+  padding-top: 3px;
+  background-color: #f6f6f6;
 }
 
 img{
