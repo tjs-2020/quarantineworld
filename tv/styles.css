@@ -40,8 +40,9 @@ color:#0039a6;
 }
 
 body{
-    
-	background-color: white;
+    background-image: url('./img/b.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
 	padding-top: 10px;
 	padding-left: 300px;
 	padding-right: 300px;
@@ -49,6 +50,9 @@ body{
 	font-size: 18px;
 	word-spacing: 3px;
 	color:#0039a6;
+}
+ .sec{
+  background-color: #f7f7f7;
 }
 
 img{

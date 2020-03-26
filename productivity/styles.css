@@ -13,8 +13,11 @@ h2{
 }
 
 body{
-    
-	background-color: white;
+    background-image: url("./img/background-02.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+	background-color: #f8f8f8;
 	padding-top: 10px;
 	padding-left: 300px;
 	padding-right: 300px;
@@ -22,6 +25,11 @@ body{
 	font-size: 18px;
 	word-spacing: 3px;
 	color:#0039a6;
+}
+
+.sec{
+	padding-top: 10px;
+  background-color: #f7f7f7;
 }
 
 img{
