@@ -1,5 +1,4 @@
 
-
 h1{
 	font-family: "Chalkboard SE", Regular;
 	font-size: 70px;
@@ -8,29 +7,30 @@ h1{
 
 
 h2{
-	font-family: "Chalkboard SE", Light;
+	font-family: "Lato", Bold;
 	font-size: 19px;
 	color:#0039a6;
 
 }
 
 body{
-    background-size: 5%;
-    background-repeat: repeat;
-    background-position: bottom 10px right 20px;
+ 
 	background-color: white;
 	padding-top: 10px;
 	padding-left: 290px;
 	padding-right: 290px;
-	font-family: "Chalkboard SE", Light;
+	font-family: "Lato", Regular;
 	font-size: 18px;
+	word-spacing: 3px;
 	color:#0039a6;
 }
-
+img{
+  float: left;
+}
 body {background: white;}
 
 
-#leaves {position:relative;top:-750px;width:100%;text-align: left;}
+#leaves {position:relative;top:-1550px;width:100%;text-align: left;}
 
 #leaves i {
     display: inline-block;

@@ -1,0 +1,30 @@
+h1{
+	font-family: "Chalkboard SE", Regular;
+	font-size: 70px;
+	color:#0039a6;
+}
+
+
+h2{
+	font-family: "Lato", Bold;
+	font-size: 19px;
+	color:#0039a6;
+
+}
+
+body{
+    
+	background-color: white;
+	padding-top: 10px;
+	padding-left: 300px;
+	padding-right: 300px;
+	font-family: "Lato", Regular;
+	font-size: 18px;
+	word-spacing: 3px;
+	color:#0039a6;
+}
+
+img{
+	float: left;
+
+}
