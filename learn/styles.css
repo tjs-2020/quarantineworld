@@ -26,6 +26,12 @@ background-color: #f8f8f8;
 	color:#0039a6;
 }
 
+@media screen and (max-width: 750px) {
+  body {
+    width: 100%; 
+  }
+}
+
 .sec{
 	padding-top: 10px;
   background-color: #f7f7f7;
