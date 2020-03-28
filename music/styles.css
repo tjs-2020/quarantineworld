@@ -29,6 +29,11 @@ body{
 	color:#0039a6;
 }
 
+@media screen and (max-width: 750px) {
+  body {
+    width: 100%; 
+  }
+}
 img{
   float: left;
 }

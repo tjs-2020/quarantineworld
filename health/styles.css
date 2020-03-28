@@ -27,6 +27,12 @@ body{
 	word-spacing: 3px;
 	color:#0039a6;
 }
+
+@media screen and (max-width: 750px) {
+  body {
+    width: 100%; 
+  }
+}
 .sec{
   padding-top: 3px;
   background-color: #f6f6f6;
