@@ -1,5 +1,13 @@
 
 
+
+.n{
+  width: 35%;
+  position: fixed;
+  float: right;
+  right:25px;
+  
+}
 h1{
 	font-family: "Chalkboard SE", Regular;
 	font-size: 70px;
@@ -8,22 +16,18 @@ h1{
 
 
 h2{
-	font-family: "Lato", Bold;
+	font-family: "Montserrat", Bold;
 	font-size: 19px;
+  line-height: 24px;
 	color:#0039a6;
 
 }
 
 body{
-  background-image: url('./img/b.png');
-  background-repeat: no-repeat;
-  background-size: 100%;
 
-	background-color: #f8f8f8;
-	padding-top: 10px;
-	padding-left: 290px;
-	padding-right: 290px;
-	font-family: "Lato", Regular;
+	background-color: white;
+
+	font-family: "Montserrat", Bold;
 	font-size: 18px;
 	word-spacing: 3px;
 	color:#0039a6;
@@ -39,7 +43,13 @@ img{
 }
 
 .sec{
-  background-color: #f7f7f7;
+  background-color: white;
+  padding-top: 10px;
+  float: left;
+  padding-right: 320px;
+  padding-left: 100px;
+  width: 800px;
+
 }
 
 
