@@ -1,14 +1,14 @@
+.n{
+  width: 50%;
+  position: fixed;
+  float: right;
+  right:-125px;
+  
+}
 h1{
 	font-family: "Chalkboard SE", Regular;
 	font-size: 60px;
 	color:#0039a6;
-}
-
-.n{
-	width: 35%;
-  position: fixed;
-  float: right;
-  right:35px;
 }
 
 h2{
@@ -21,25 +21,27 @@ h2{
 }
 
 body{
-    background-color: white;
-	font-family: "Montserrat", Bold;
-	font-size: 18px;
-	word-spacing: 3px;
-	color:#0039a6;
+  background-color: white;
+  font-family: "Montserrat", Bold;
+  font-size: 18px;
+  word-spacing: 3px;
+  color:#0039a6;
 }
+
 
 @media screen and (max-width: 750px) {
   body {
     width: 100%; 
   }
 }
-.sec{
-  background-color: white;
+
+ .sec{
+   background-color: white;
   padding-top: 10px;
   float: left;
   padding-right: 320px;
   padding-left: 100px;
-  width: 750px;
+  width: 800px;
 }
 img{float: left;}
 

@@ -1,3 +1,13 @@
+.n{
+  width: 45%;
+  position: fixed;
+  float: right;
+  right:-95px;
+  
+}
+
+
+
 h1{
 	font-family: "Chalkboard SE", Regular;
 	font-size: 70px;

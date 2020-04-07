@@ -1,3 +1,12 @@
+
+.n{
+  width: 50%;
+  position: fixed;
+  float: right;
+  right:-125px;
+  
+}
+
 h1{
 	font-family: "Chalkboard SE", Regular;
 	font-size: 70px;
@@ -11,33 +20,29 @@ h2{
 	color:#0039a6;
 
 }
-
 body{
-    background-image: url("./img/background-02.png");
-  background-repeat: no-repeat;
-  background-size: 100%;
-background-color: #f8f8f8;
-	align-content: center;
-	padding-top: 10px;
-	padding-left: 270px;
-	padding-right: 270px;
-	font-family: "Lato", Regular;
-	font-size: 18px;
-	word-spacing: 3px;
-	color:#0039a6;
-	text-align: left;
+  background-color: white;
+  font-family: "Montserrat", Bold;
+  font-size: 18px;
+  word-spacing: 3px;
+  color:#0039a6;
 }
+
 
 @media screen and (max-width: 750px) {
   body {
     width: 100%; 
   }
 }
-.sec{
-	padding-top: 10px;
-  background-color: #f7f7f7;
-}
 
+ .sec{
+   background-color: white;
+  padding-top: 10px;
+  float: left;
+  padding-right: 320px;
+  padding-left: 100px;
+  width: 800px;
+}
 img{
 	float: left;
 }
